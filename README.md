@@ -1,2 +1,2 @@
 # psychic_game
-simple "psychic"(guessing) game using internal JavaScript 
+simple "psychic"(guessing) game using JavaScript 
